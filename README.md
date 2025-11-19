@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Soon](Soon)
 
-- ⚡ Fun fact **Valo**
+- ⚡ Fun fact **I play Valorent**
 
 ---
 <img src="https://github.com/Roodius-hub/Roodius-hub/blob/main/rudjerd-mushoku-tensei.gif?raw=true" width="100" />
