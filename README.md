@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Rust , Full stack Project**
 
-- 👨‍💻 All of my projects are available at [Old Account Deleted , This one is new](Old Account Deleted , This one is new)
+- 👨‍💻 All of my projects are available at [Old Account Deleted , This one is new]
 
 - 💬 Ask me about **Full Stack , DevOps**
 
