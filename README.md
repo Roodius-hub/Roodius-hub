@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roodius</h1>
 <h3 align="center">Rust , Full stack , DevOps , loading ....</h3>
 
+<a href="https://www.leetcode.com/osmansxme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmansxme" height="30" width="40" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roodius-hub&label=Profile%20views&color=0e75b6&style=flat" alt="roodius-hub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roodius-hub" alt="roodius-hub" /></a> </p>
