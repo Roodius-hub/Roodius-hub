@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roodius</h1>
 <h3 align="center">Rust , Full stack , DevOps , loading ....</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roodius-hub&label=Profile%20views&color=0e75b6&style=flat" alt="roodius-hub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roodius-hub" alt="roodius-hub" /></a> </p>
 
 - 🌱 I’m currently learning **Rust,web3**
 
