@@ -2,7 +2,7 @@
 <h3 align="center">Rust , Full stack , DevOps , loading ....</h3>
 
 
-- 🌱 I’m currently learning **Rust,web3**
+- 🌟 I’m currently learning **Rust,web3**
 
 - 👯 I’m looking to collaborate on **Rust , Full stack Project**
 
