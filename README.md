@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/roodius_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@Roodius" height="30" width="40" /></a>
   
 <p> My Discord Server </p>
-<a href="https://discord.gg/XP9amGSU" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000">Discord</a>
+<a href="https://discord.gg/XP9amGSU"><img  src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" alt="@Roodius" height="30" width="40"/></a>
 </p>
 <a href="https://www.leetcode.com/osmansxme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="osmansxme" height="30" width="40" /></a>
 </p>
