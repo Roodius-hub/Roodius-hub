@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **osmansaifi30@gmail.com**
 
-
+<a href="https://discord.gg/XP9amGSU">Discord</a>
 
 ---
 <img src="https://github.com/Roodius-hub/Roodius-hub/blob/main/rudjerd-mushoku-tensei.gif?raw=true" width="100" />
