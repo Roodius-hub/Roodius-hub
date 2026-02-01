@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **osmansaifi30@gmail.com**
 
-<p>My Discord Channel get in Touch  @Id -> roodius_senior
-</p>
+<p>My Discord Channel get in Touch</p>
 <a href="https://discord.gg/XP9amGSU">Discord</a>
 
 ---
