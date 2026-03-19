@@ -1,15 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roodius</h1>
-<h3 align="center">Rust , Full stack , DevOps , loading ....</h3>
-
-
-- 🌟 I’m currently learning **Rust,web?**
-
-- 👯 I’m looking to collaborate on **Rust , Full stack Project**
-
-- 👨‍💻 All of my projects are available at [Old Account Deleted , This one is new]
-
-- 💬 Ask me about **Full Stack , DevOps**
-
+<h3 align="center">Rust , Full stack , DevOps </h3>
 - 📫 How to reach me **osmansaifi30@gmail.com**
 
 
